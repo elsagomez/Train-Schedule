@@ -1,0 +1,25 @@
+.row{
+	background-color: grey;
+}
+
+.jumbotron{
+	background-image: url(train.jpg);
+}
+
+
+.jumbotron, .h1, h1,h2 {
+	color: white;
+	font-weight: bold;
+}
+
+.panel-body{
+	background-color: gray;
+	color: white;
+	font-weight: bold;	
+}
+
+.btn{
+	background-color: gray;
+	color: white;
+	font-weight: bold;	
+}
